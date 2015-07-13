@@ -1,0 +1,18 @@
+c:\users\azadeh\documents\visual studio 2013\Projects\NLH\NLH\bin\Debug\NLH.exe.config
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\bin\Debug\NLH.exe
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\bin\Debug\NLH.pdb
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.csprojResolveAssemblyReference.cache
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.Form1.resources
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.MainMenu.resources
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.ManageDoctors.resources
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.Properties.Resources.resources
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.csproj.GenerateResource.Cache
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.exe
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.pdb
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\bin\Debug\NLHClassLibrary.dll
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\bin\Debug\NLHClassLibrary.pdb
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.PatientsList.resources
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\NLH\NLH\obj\Debug\NLH.SurgeryReport.resources
+C:\Users\Azadeh\Desktop\CDI Skool\Jean-Philippe Joseph NLH\NLH\NLH\bin\Debug\NLH.exe.config
+C:\Users\Azadeh\Desktop\CDI Skool\Jean-Philippe Joseph NLH\NLH\NLH\obj\Debug\NLH.exe
+C:\Users\Azadeh\Desktop\CDI Skool\Jean-Philippe Joseph NLH\NLH\NLH\obj\Debug\NLH.pdb
